@@ -5,4 +5,3 @@ list down the env
 to activate the env
 ''' conda activate <env_name>'''
 
-create a new env
